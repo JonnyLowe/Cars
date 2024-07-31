@@ -69,7 +69,7 @@
         // Function to update models based on selected make
         function updateModels3() {
             let selectedMake3 = selectBox3.value;
-            let models3 = modelsByMake1[selectedMake3] || []; modelBox3.innerHTML = "<option>Select</option>";
+            let models3 = modelsByMake1[selectedMake3] || []; modelBox3.innerHTML = "<option></option>";
            
            
             
