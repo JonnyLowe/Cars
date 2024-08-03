@@ -22,6 +22,7 @@
             "Ferrari": ["488 GTB", "488 Pista", "488 Spider", "812 Superfast", "F8 Tributo", "California T", "F12 Berlinetta", "F12tdf", "F430", "F430 Spider", "Portofino", "Roma", "SF90 Stradale"],
             "Ford": ["B-Max", "C-Max", "EcoSport", "Edge", "Escape", "Expedition", "Explorer", "F-150", "Fiesta", "Focus", "Fusion", "KA", "Kuga", "Mondeo", "Mustang", "Ranger", "S-Max"],
             "Honda": ["Civic", "CR-V", "Fit", "Jazz", "S2000"],
+		"Fiat": ["500", "500X", "500L ", "124 Spider", "Brava", "Panda","Punto", "Abarth"],
             "Hyundai": ["i10", "i20", "i30", "i40", "IONIQ", "IONIQ 5", "IONIQ 6", "ix20", "ix35", "Kona", "Santa Fe", "Tucson"],
             "Jaguar": ["E-PACE", "F-PACE", "F-TYPE", "I-PACE", "XE", "XF", "XJ"],
             "Jeep": ["Cherokee", "Compass", "Grand Cherokee", "Renegade", "Wrangler"],
@@ -227,7 +228,20 @@
            "F8 Tributo": ["Spider"],
            "F430": ["Spider", "Scuderia"],
            "SF90 Stradale": ["Spider"],
-           
+
+
+ /* Fiat Models To Variants */
+
+            "Fiat 500": ["Pop", "Lounge", "Sport", "Star", "Rockstar", "Dolcevita", "Mirror", "S", "C", "Hybrid"],
+            "Fiat 500X": ["Pop", "Pop Star", "Lounge", "Cross", "Cross Plus", "Sport", "City Cross", "Urban"],
+            "Fiat 500L": ["Pop", "Pop Star", "Lounge", "Trekking", "Cross", "Sport", "Urban", "Mirror"],
+            "Fiat 124 Spider": ["Classica", "Lusso", "Abarth", "Urbana"],
+            "Fiat Brava": ["SX", "ELX", "GT"],
+            "Fiat Panda": ["Pop", "Easy", "Lounge", "Sport", "Cross", "City Cross", "Wild", "4x4", "Trussardi"],
+            "Fiat Punto": ["Pop", "Easy", "Lounge", "Grazie Mille", "Sporting", "Abarth"],
+            "Abarth": ["595", "595 Turismo", "595 Competizione", "695", "695 Biposto", "695 Rivale", "124 Spider", "124 GT", "595C", "695C"],
+ 
+		
            /* Ford Models To Varients */
            
            "B-Max": ["EcoBoost", "Titanium", "Zetec"],
