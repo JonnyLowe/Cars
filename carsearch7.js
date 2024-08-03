@@ -232,13 +232,13 @@
 
  /* Fiat Models To Variants */
 
-            "Fiat 500": ["Pop", "Lounge", "Sport", "Star", "Rockstar", "Dolcevita", "Mirror", "S", "C", "Hybrid"],
-            "Fiat 500X": ["Pop", "Pop Star", "Lounge", "Cross", "Cross Plus", "Sport", "City Cross", "Urban"],
-            "Fiat 500L": ["Pop", "Pop Star", "Lounge", "Trekking", "Cross", "Sport", "Urban", "Mirror"],
-            "Fiat 124 Spider": ["Classica", "Lusso", "Abarth", "Urbana"],
-            "Fiat Brava": ["SX", "ELX", "GT"],
-            "Fiat Panda": ["Pop", "Easy", "Lounge", "Sport", "Cross", "City Cross", "Wild", "4x4", "Trussardi"],
-            "Fiat Punto": ["Pop", "Easy", "Lounge", "Grazie Mille", "Sporting", "Abarth"],
+            "500": ["Pop", "Lounge", "Sport", "Star", "Rockstar", "Dolcevita", "Mirror", "S", "C", "Hybrid"],
+            "500X": ["Pop", "Pop Star", "Lounge", "Cross", "Cross Plus", "Sport", "City Cross", "Urban"],
+            "500L": ["Pop", "Pop Star", "Lounge", "Trekking", "Cross", "Sport", "Urban", "Mirror"],
+            "124 Spider": ["Classica", "Lusso", "Abarth", "Urbana"],
+            "Brava": ["SX", "ELX", "GT"],
+            "Panda": ["Pop", "Easy", "Lounge", "Sport", "Cross", "City Cross", "Wild", "4x4", "Trussardi"],
+            "Punto": ["Pop", "Easy", "Lounge", "Grazie Mille", "Sporting", "Abarth"],
             "Abarth": ["595", "595 Turismo", "595 Competizione", "695", "695 Biposto", "695 Rivale", "124 Spider", "124 GT", "595C", "695C"],
  
 		
